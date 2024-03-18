@@ -5,7 +5,7 @@ name: pwn.hust.college 入门教学
 type: welcome
 
 award:
-  belt: Pikachu
+  belt: ✋
 
 modules:
   - id: welcome

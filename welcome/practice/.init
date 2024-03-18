@@ -1,3 +1,0 @@
-#!/bin/bash
-
-chmod 600 /challenge/secret

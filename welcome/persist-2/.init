@@ -1,3 +1,0 @@
-#!/bin/bash
-
-[ -f /home/hacker/leap/secret ] || rm /challenge/secret
